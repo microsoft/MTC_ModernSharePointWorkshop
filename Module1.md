@@ -16,6 +16,8 @@ Public link to [Slide Deck for Mobile 1](Presentations/Module1.pptx)
 - [8 tips to get started with SharePoint Communication Sites](https://www.computerworld.com/article/3205245/enterprise-applications/8-tips-to-get-started-with-sharepoint-communication-sites.html)
 - [Enforcing a naming policy for O365 Groups in Azure Active Directory](https://docs.microsoft.com/en-us/azure/active-directory/groups-naming-policy)
 - [SharePoint "modern" sites classification](https://docs.microsoft.com/en-us/sharepoint/dev/solution-guidance/modern-experience-site-classification)
+- [Using the New SharePoint Page Approval Flow](https://melihubb.com/2018/08/08/using-the-new-sharepoint-page-approval-flow/amp/)
+- [View, edit, and add page properties](https://support.office.com/en-us/article/view-edit-and-add-page-properties-778018d3-8269-4fd2-a55d-8c0e5b72b938?ui=en-US&rs=en-US&ad=US)
 
 ## Hands-On Activities
 
@@ -32,3 +34,4 @@ Public link to [Slide Deck for Mobile 1](Presentations/Module1.pptx)
 - [Use the Quick Links Web Part](https://support.office.com/en-us/article/Use-the-Quick-Links-web-part-e1df7561-209d-4362-96d4-469f85ab2a82)
 - [Customize the Navigation on your SharePoint Site (top menu communication site)](https://support.office.com/en-us/article/Customize-the-navigation-on-your-SharePoint-site-3CD61AE7-A9ED-4E1E-BF6D-4655F0BF25CA?ui=en-US&rs=en-US&ad=US)
 - [Use the Connector Web Part (use a Team Site)](https://support.office.com/en-us/article/Use-the-Connector-web-part-db0756aa-f78f-4b74-8b19-be5dca0420e1#bkmk_connectorswebpart)
+- [Use the Page properties web part](https://support.office.com/en-us/article/use-the-page-properties-web-part-1a99cb9c-a5f1-441b-8e5d-643b0f0ff736)
