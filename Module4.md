@@ -15,6 +15,7 @@ Public link to [Slide Deck for Module 4](Presentations/Module4.pptx)
 ## Additional Resources
 
 - [What is a Hub Site?](https://support.office.com/en-us/article/what-is-a-sharepoint-hub-site-fe26ae84-14b7-45b6-a6d1-948b3966427f?ui=en-US&rs=en-US&ad=US)
+- [Planning Hub Sites](https://aka.ms/PlanningSPhubsites)
 - [6 tips for SharePoint Hub Sites](https://www.computerworld.com/article/3280102/enterprise-applications/6-tips-for-planning-sharepoint-hub-sites.html)
 - [PowerShell commands for Hub Sites](https://docs.microsoft.com/en-us/sharepoint/dev/features/hub-site/hub-site-powershell)
 - [Organize your intranet with Hub Sites](https://techcommunity.microsoft.com/t5/Microsoft-SharePoint-Blog/Organize-your-intranet-with-SharePoint-hub-sites/ba-p/174081)

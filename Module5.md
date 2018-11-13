@@ -20,7 +20,8 @@ Public link to [Slide Deck for Module 5](Presentations/Module5.pptx)
 
 ## Additional Resources
 
-- [Announcing SharePoint Framework version 1.5](https://dev.office.com/blogs/announcing-sharepoint-framework-version-1-5-new-tools-and-a-beta-preview)
+- [Announcing SharePoint Framework version 1.7](https://developer.microsoft.com/en-us/sharepoint/blogs/bring-your-apps-to-more-places-with-new-sharepoint-framework-and-microsoft-teams-releases/)
+- [SharePoint Framework 1.7 Release Notes](https://github.com/SharePoint/sp-dev-docs/wiki/SharePoint-Framework-v1.7-release-notes)
 - [Overview of the SharePoint Framework](https://docs.microsoft.com/en-us/sharepoint/dev/spfx/sharepoint-framework-overview)
 - [SharePoint Development Overview](https://docs.microsoft.com/en-us/sharepoint/dev/general-development/sharepoint-development-overview)
 - [Office Dev Center](https://developer.microsoft.com/en-us/office)
@@ -29,6 +30,7 @@ Public link to [Slide Deck for Module 5](Presentations/Module5.pptx)
 - [The Intrazone Podcast](https://techcommunity.microsoft.com/t5/Microsoft-SharePoint-Blog/The-Intrazone-a-new-SharePoint-podcast-from-Microsoft/ba-p/184910)
 - [SharePoint Framework Extensions](https://docs.microsoft.com/en-us/sharepoint/dev/spfx/extensions/overview-extensions)
 - [Sample SPFx Extensions](https://github.com/SharePoint/sp-dev-fx-extensions)
+- [SharePoint Starter Kit](https://github.com/SharePoint/sp-starter-kit)
 
 ## Hands-On Activities
 

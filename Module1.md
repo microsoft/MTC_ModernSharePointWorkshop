@@ -18,6 +18,8 @@ Public link to [Slide Deck for Mobile 1](Presentations/Module1.pptx)
 - [SharePoint "modern" sites classification](https://docs.microsoft.com/en-us/sharepoint/dev/solution-guidance/modern-experience-site-classification)
 - [Using the New SharePoint Page Approval Flow](https://melihubb.com/2018/08/08/using-the-new-sharepoint-page-approval-flow/amp/)
 - [View, edit, and add page properties](https://support.office.com/en-us/article/view-edit-and-add-page-properties-778018d3-8269-4fd2-a55d-8c0e5b72b938?ui=en-US&rs=en-US&ad=US)
+- [SharePoint Governance Questions](http://tiny.cc/SharePointGovQuestions)
+- [SharePoint Governance Step by Step](http://tiny.cc/SPGovStepbyStep)
 
 ## Hands-On Activities
 
