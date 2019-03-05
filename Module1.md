@@ -20,6 +20,7 @@ Public link to [Slide Deck for Mobile 1](Presentations/Module1.pptx)
 - [View, edit, and add page properties](https://support.office.com/en-us/article/view-edit-and-add-page-properties-778018d3-8269-4fd2-a55d-8c0e5b72b938?ui=en-US&rs=en-US&ad=US)
 - [SharePoint Governance Questions](http://tiny.cc/SharePointGovQuestions)
 - [SharePoint Governance Step by Step](http://tiny.cc/SPGovStepbyStep)
+- [Use Column Formatting to Customize SharePoint](https://docs.microsoft.com/en-us/sharepoint/dev/declarative-customization/column-formatting)
 
 ## Hands-On Activities
 
@@ -37,3 +38,10 @@ Public link to [Slide Deck for Mobile 1](Presentations/Module1.pptx)
 - [Customize the Navigation on your SharePoint Site (top menu communication site)](https://support.office.com/en-us/article/Customize-the-navigation-on-your-SharePoint-site-3CD61AE7-A9ED-4E1E-BF6D-4655F0BF25CA?ui=en-US&rs=en-US&ad=US)
 - [Use the Connector Web Part (use a Team Site)](https://support.office.com/en-us/article/Use-the-Connector-web-part-db0756aa-f78f-4b74-8b19-be5dca0420e1#bkmk_connectorswebpart)
 - [Use the Page properties web part](https://support.office.com/en-us/article/use-the-page-properties-web-part-1a99cb9c-a5f1-441b-8e5d-643b0f0ff736)
+- [Yammer Highlights and Conversations Web Part](https://support.office.com/en-us/article/use-a-yammer-web-part-in-sharepoint-online-a53cfa0c-3d09-42c8-a286-1038a81c59da?ui=en-US&rs=en-US&ad=US)
+- [Personalized Web Parts](https://techcommunity.microsoft.com/t5/Microsoft-SharePoint-Blog/SharePoint-web-part-updates-Yammer-Conversations-My-Documents/ba-p/303719?_lrsc=cd99055e-c151-47af-8aa8-3e0186f4bb89)
+- [Change Page Thumbnail and Description](https://support.office.com/en-us/article/view-edit-and-add-page-details-778018d3-8269-4fd2-a55d-8c0e5b72b938)
+- [Use the Quick Chart Web Part](https://support.office.com/en-us/article/Use-the-Quick-Chart-web-part-BCFEE244-2408-400B-A9BD-4ECA61AEAD51)
+- [Add Location Column](https://techcommunity.microsoft.com/t5/SharePoint/Add-Location-Details-to-SharePoint-Data-and-Content/td-p/284875)
+- [Use the Code Snippet Web Part](https://support.office.com/en-us/article/use-the-code-snippet-web-part-d16d5aac-3e43-4d4d-aef3-d0ddbca64c05)
+- [Use the Markdown Web Part](https://support.office.com/en-us/article/use-the-markdown-web-part-6d73c06d-2877-4bc9-988b-f2896016c50b)
